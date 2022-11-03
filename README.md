@@ -1,3 +1,3 @@
 # Picture2D
 
-Set of by value class to write in picture control.
+Set of by value class to draw in picture control.
