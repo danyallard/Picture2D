@@ -12,7 +12,6 @@
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)\!!!*Q(C=\&gt;3^43N2%)&lt;BDSM#5H&gt;Q=?;%A+E!S1HE&lt;G&amp;;M-G=L/17*C2V#[Y!;51(&lt;M%N,/_?(1S)P_1C81H/=MT[/T`T?(?V5GNHUKH[L^LKUT;/^[MW=:T&gt;TF:D@RY`@N2Y`^ZY,?U`'K^*4V`?V(^2Z.8Y*X\^NN`WM^P[KV@!^R./.,S)[%E0ON..1_E_S:-]S:-]S:-]S)-]S)-]S)0=S:X=S:X=S:X=S)X=S)X=S)W](?1C&amp;\H))38&amp;EU,*JME'S71I3DY34_**0)G(LUI]C3@R**\%QR1FHM34?"*0YG':%E`C34S**`'Q6:.E/]DR*"[W6_!*0)%H]!1?3CLQ")#A7,"RM!E-"90"3?!*0)'(5Q7?Q".Y!E`A96C"*`!%HM!4?&amp;D3LEIUT8#1YW%&lt;/2\(YXA=D_.B;TE?R_.Y()`DI:Q=D_.R%%Z":X-)=B9Z%ZQPDM@R]%_/R`%Y(M@D?"BK&gt;]D&lt;F2EUQU'/R`!9(M.D?!Q07]DQ'"\$9XA-$^P+]"A?QW.Y$!_F:(A-D_%R)%:2SMP9T&amp;BI4$)#Q].@?VKMX;6I%GO(6!_P[K&amp;507SKBUDV=+BOOOJGKG[3[O+L,KLK9KEOAOL(K&gt;!KD+K);P%Q51=_^`1&gt;@5P@U*@U"8V/H^)HQ^*`00&amp;Q/'C`XWOXWWG\X7KTW7CZ8'KR7'A_HWM[H7ISG2R@!X]ZDC_%]&lt;WUZLR\O$TP:J&gt;XX=8.84?\P?LOL[`7YZTP&lt;P`"OV&amp;`^,)/V_A2:2J?QA!!!!!</Property>
 	<Property Name="NI.Lib.LocalName" Type="Str">IDrawable</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.LVClass.ClassNameVisibleInProbe" Type="Bool">true</Property>

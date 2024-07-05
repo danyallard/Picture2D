@@ -11,7 +11,6 @@
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../Picture2D/Picture2D.lvlib</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*!!!!*Q(C=\&gt;1`3A.2%-@RHS,%.JZ!=I5ZA:!4#$G!)..&lt;J5WZ51M,1?9+O5+O-&amp;@)&amp;6,:L^^^G93AI)W#I'^^3@&lt;X`MT(X77FVM[F-`6@N&gt;'HL9XXQX?`0_F&lt;M%PWYWW8PG&lt;7_,PVI[.*BZ7(]5L\53.^7.]@F^[&gt;(N8`T+``^N`_&gt;FN]^1LY?=+*BB=20?F"&gt;\JJ+.UH?:)H?:)H?:)(?:!(?:!(?:!\O:-\O:-\O:-&lt;O:%&lt;O:%&lt;O:'XAVTE)B=ZJ+2Y5CD:..EAG1R&amp;S5@C34S**`&amp;QKM34?"*0YEE]4&amp;(C34S**`%E(J9J]33?R*.Y%A^&lt;.5GWARR0YG&amp;\":\!%XA#4_#BJ!*0!!C+"2M(G]"1-"D]#$S"*`$Q5Y%H]!3?Q".Y'&amp;&lt;A#4S"*`!%(J;UKR*.-RTE?.B'DM@R/"\(YXD97I\(]4A?R_.Y+#@(YXA=B&amp;01W2S#H%8/"/@%]4A?PO2Y()`D=4S/B[&amp;WB\R&gt;G5%T(/2Y$)`B-4S'R`#QB1S0Y4%]BM@QM+U-D_%R0)&lt;(]&amp;"+BM@Q'"Y$9B3FP)T.D)8'*#-Q00SVJ]8;89IGM8:)^@#K(EL6Q[:[C&amp;10B_KGKW[G[C;J,L\KIKIOFOICK0YZ&amp;6K&amp;5262,2YG;MPHBL[GL_A&gt;@5[@U;@U#8U],0XGC&gt;PN6JP.2OPV7KP63FX8;4[@;T;&lt;;4K&gt;;D+:;$Q?(VY$FRS(&amp;],OP&lt;4A^T*P\_YP&lt;K_74]]XX@8LV=0DS^VC._?HWS^Y._J5RX7Y2G^YRBM8!!!!!!</Property>
 	<Property Name="NI.Lib.LocalName" Type="Str">IScalable</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.LVClass.ClassNameVisibleInProbe" Type="Bool">true</Property>
